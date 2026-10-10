@@ -1,0 +1,15 @@
+# Environment and dependencies
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+
+# Datasets and uploaded records: never commit financial customer data
+/data/
+/uploads/
+/reports/
+*.local.csv
