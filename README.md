@@ -22,7 +22,7 @@ platform.
 
 ## Problem Statement
 
-Mobile money platforms are increasingly vulnerable to fraudulent transactions, particularly account-takeover attacks. Due to the private nature of financial data, publicly available datasets are scarce. This project uses the **PaySim** synthetic dataset, which simulates real-world mobile money transactions, to develop a machine learning model that accurately distinguishes fraudulent transactions from legitimate ones in a highly imbalanced dataset.
+Banking Sector are increasingly vulnerable to fraudulent transactions, particularly account-takeover attacks. Due to the private nature of financial data, publicly available datasets are scarce. This project uses the **PaySim** synthetic dataset, which simulates real-world mobile money transactions, to develop a machine learning model that accurately distinguishes fraudulent transactions from legitimate ones in a highly imbalanced dataset.
 
 Empirical analysis of the full dataset **(6 Millions transactions)** confirms fraud
 is structurally confined to these two transaction types:
