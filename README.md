@@ -58,6 +58,9 @@ Build a binary classification model to detect fraudulent **TRANSFER** and **CASH
 - Report performance in business terms: *"At X% precision, the model catches
   Y% of fraudulent transactions"*
 
+  ## Live Link:
+  https://f2odcg5qxpvjtlju2sxsrz.streamlit.app/
+
 ## Approach
 
 1. **Scoping** — filtered to TRANSFER/CASH_OUT only, verified empirically
